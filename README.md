@@ -22,3 +22,9 @@ In this notebook we will solve the digit classification task with 3 different mo
 * Linear classifier (logistic regression)
 * Multilayer perceptron (non-linear fully connected network)
 * Convolutional neural network
+
+
+Links:
+
+1)[Machine Learning Course](https://course18.fast.ai/ml.html)
+2)[Deep Learning Course](https://course.fast.ai) 
