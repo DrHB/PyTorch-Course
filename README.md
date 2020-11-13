@@ -26,5 +26,5 @@ In this notebook we will solve the digit classification task with 3 different mo
 
 Links:
 
-1)[Machine Learning Course](https://course18.fast.ai/ml.html)
-2)[Deep Learning Course](https://course.fast.ai) 
+* [Machine Learning Course](https://course18.fast.ai/ml.html) 
+* [Deep Learning Course](https://course.fast.ai) 
