@@ -2,7 +2,7 @@
 
 ### Introduction to PyTorch Part 1
 
-<a href="https://colab.research.google.com/drive/1xkQWaCig55_xeO_ZzSqj2zll2ZLcB033?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/drive/1gmiCnxrC8mnkM4h4nbYLaDuy2rtZUE0k?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 In this notebook, we will become familiar with:
 * Tensor initialization
