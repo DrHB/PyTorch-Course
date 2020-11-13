@@ -13,6 +13,9 @@ In this notebook, we will become familiar with:
 * Train and Fit 
 
 ### Introduction to PyTorch Part 2
+<a href="https://colab.research.google.com/drive/1ayx3x7yhCd-FVnN5lTfPNSpJorQbuR6k?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
 
 In this notebook we will solve the digit classification task with 3 different models of progressively increasing complexity:
 
