@@ -2,7 +2,7 @@
 
 ### Introduction to PyTorch Part 1
 
-<a href="https://colab.research.google.com/drive/1gmiCnxrC8mnkM4h4nbYLaDuy2rtZUE0k?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/DrHB/PyTorch-Course/blob/main/Intro-PyTorch-1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 In this notebook, we will become familiar with:
 * Tensor initialization
@@ -13,8 +13,7 @@ In this notebook, we will become familiar with:
 * Train and Fit 
 
 ### Introduction to PyTorch Part 2
-<a href="https://colab.research.google.com/drive/1ayx3x7yhCd-FVnN5lTfPNSpJorQbuR6k?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
+<a href="https://colab.research.google.com/github/DrHB/PyTorch-Course/blob/main/Intro-PyTorch-2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 In this notebook we will solve the digit classification task with 3 different models of progressively increasing complexity:
@@ -23,6 +22,11 @@ In this notebook we will solve the digit classification task with 3 different mo
 * Multilayer perceptron (non-linear fully connected network)
 * Convolutional neural network
 
+### Introduction to PyTorch Part 3
+<a href="https://colab.research.google.com/github/DrHB/PyTorch-Course/blob/main/Intro-PyTorch-3.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+In this notebook we will try to build real world classifier using Convolutional neural network. 
 
 Links:
 
